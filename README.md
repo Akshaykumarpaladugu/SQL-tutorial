@@ -6,3 +6,11 @@ This the link of installtion of [Xampp sever](https://www.apachefriends.org/down
 
 
 make sure username is always root and password is empty in xampp application and host is localhost
+
+
+
+
+# Day-2
+>List of Database checking
+
+Checking list of database avaiable in sql database.
